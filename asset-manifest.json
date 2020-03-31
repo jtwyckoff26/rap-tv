@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/rap-tv/static/css/main.5f361e03.chunk.css",
-    "main.js": "/rap-tv/static/js/main.b0cdfcf3.chunk.js",
-    "main.js.map": "/rap-tv/static/js/main.b0cdfcf3.chunk.js.map",
+    "main.js": "/rap-tv/static/js/main.a9d77f71.chunk.js",
+    "main.js.map": "/rap-tv/static/js/main.a9d77f71.chunk.js.map",
     "runtime-main.js": "/rap-tv/static/js/runtime-main.533eecd4.js",
     "runtime-main.js.map": "/rap-tv/static/js/runtime-main.533eecd4.js.map",
-    "static/js/2.26d3bfd2.chunk.js": "/rap-tv/static/js/2.26d3bfd2.chunk.js",
-    "static/js/2.26d3bfd2.chunk.js.map": "/rap-tv/static/js/2.26d3bfd2.chunk.js.map",
+    "static/js/2.fbfdadec.chunk.js": "/rap-tv/static/js/2.fbfdadec.chunk.js",
+    "static/js/2.fbfdadec.chunk.js.map": "/rap-tv/static/js/2.fbfdadec.chunk.js.map",
     "index.html": "/rap-tv/index.html",
-    "precache-manifest.b94694ef31d0a37803e3246e624a8937.js": "/rap-tv/precache-manifest.b94694ef31d0a37803e3246e624a8937.js",
+    "precache-manifest.a8c9b853d58488de0eb32169c30e9cf9.js": "/rap-tv/precache-manifest.a8c9b853d58488de0eb32169c30e9cf9.js",
     "service-worker.js": "/rap-tv/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/rap-tv/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.26d3bfd2.chunk.js.LICENSE.txt": "/rap-tv/static/js/2.26d3bfd2.chunk.js.LICENSE.txt"
+    "static/js/2.fbfdadec.chunk.js.LICENSE.txt": "/rap-tv/static/js/2.fbfdadec.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.533eecd4.js",
-    "static/js/2.26d3bfd2.chunk.js",
+    "static/js/2.fbfdadec.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.b0cdfcf3.chunk.js"
+    "static/js/main.a9d77f71.chunk.js"
   ]
 }
