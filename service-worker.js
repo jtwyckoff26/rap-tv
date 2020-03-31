@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/rap-tv/precache-manifest.a8c9b853d58488de0eb32169c30e9cf9.js"
+  "/rap-tv/precache-manifest.468f0c405b2e2803113a9dc8c640afaa.js"
 );
 
 self.addEventListener('message', (event) => {
