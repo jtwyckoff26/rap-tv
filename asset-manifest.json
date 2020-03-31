@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/rap-tv/static/css/main.5f361e03.chunk.css",
+    "main.js": "/rap-tv/static/js/main.94471c20.chunk.js",
+    "main.js.map": "/rap-tv/static/js/main.94471c20.chunk.js.map",
+    "runtime-main.js": "/rap-tv/static/js/runtime-main.533eecd4.js",
+    "runtime-main.js.map": "/rap-tv/static/js/runtime-main.533eecd4.js.map",
+    "static/js/2.7bb76809.chunk.js": "/rap-tv/static/js/2.7bb76809.chunk.js",
+    "static/js/2.7bb76809.chunk.js.map": "/rap-tv/static/js/2.7bb76809.chunk.js.map",
+    "index.html": "/rap-tv/index.html",
+    "precache-manifest.8e2c6cc64dea0e05e6b42cbce117adb2.js": "/rap-tv/precache-manifest.8e2c6cc64dea0e05e6b42cbce117adb2.js",
+    "service-worker.js": "/rap-tv/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/rap-tv/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.7bb76809.chunk.js.LICENSE.txt": "/rap-tv/static/js/2.7bb76809.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/rap-tv/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.533eecd4.js",
+    "static/js/2.7bb76809.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.94471c20.chunk.js"
+  ]
+}
